@@ -5,10 +5,9 @@
 - 📫 How to reach me..., Discord or E-Mail.
 
 ------------------------------------------------------------------------------------------------
-* Experience Lvl 2 Weeks. *
+* Experience Lvl 2.5 Weeks. *
 
-* TheHzardServer * This site is a how to install Plex Media Server and a list of all the movies and
-TV shows on my private home server w/ links to IMDB, Torrent site & Plex.
+* TEMPLATE * This is just a HTML/CSS/JS Template.
 
 
 ------------------------------------------------------------------------------------------------
